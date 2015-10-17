@@ -1,7 +1,30 @@
 # bruteforceart
-brute forcing imagery
+bruteforcing imagery using puredata
 
----sorry french below only for today---
+--sorry for my english, french below--
+
+The thing is to produce methodically all the images.
+
+The entire process is to make as a free licensed , public domain or "art libre" implementation , the entire production of this program.
+
+Which would complete the copyright of all 16 * 16 black and white images in the near future.
+
+When we look at the material which forms the basis of our sensible world, we can generalize. In the arrangement of molecules, atoms, there are always two possibilities, one that is chaotic, which we cannot grasp the meaning of
+and the other as an arrangement, juxtaposition or even a fusion, but there is a finite set of molecules in the space that we can perceive.
+
+What seems infinite, because of their large number: the possible combinations of these sets. But even the possibilities of connections in our brain are countable.
+
+This project would make no sense without the existence of techniques and systems of thought to which I am refering to, by creating this image generator tool.
+
+Currently, humans take ownership of pictures, lock the copy, make trial who dares to copy them and be inspired.
+
+It is this situation which leads me to propose that answer, which is worth no more than others.
+
+It would be purely ridiculous if the  human genome, agricultural seeds, medicines, ... were not also subject to the same treatment.
+
+As the representations of hunting painted on the walls of caves, like the battle scenes, it is an image of power and strength, a totalitarian image, and overall violent and ultimately derisory, which, in my opinion, can lead to reflection and discussion. 
+
+---french below---
 
 Il s’agit de produire méthodiquement toutes les images.
 
@@ -24,4 +47,4 @@ C’est cette situation qui m’amène à proposer cette réponse, qui en vaut d’autres
 
 Ce serait purement ridicule si le génome humain, les semences agricoles, les médicaments, ..., n’étaient pas eux aussi soumis au même régime.
 
-Comme les représentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, c’est une image de puissance et de force, une image totalitaire, violente et globale et finalement dérisoire, qui, à mon avis, prête à réflexion.
+Comme les représentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, c’est une image de puissance et de force, une image totalitaire, violente et globale et finalement dérisoire, qui, à mon avis, prête à réflexion et a discussion.
