@@ -3,9 +3,10 @@ bruteforcing imagery using puredata
 
 --sorry for my english, french below--
 
-The thing is to produce methodically all the images.
+This is made to produce methodically all the images.
 
-The entire process is to make as a free licensed , public domain or "art libre" implementation , the entire production of this program.
+The entire process is to make as a free licensed , public domain or "art libre" implementation,
+the entire production of this program.
 
 Which would complete the copyright of all 16 * 16 black and white images in the near future.
 
@@ -20,31 +21,31 @@ Currently, humans take ownership of pictures, lock the copy, make trial who dare
 
 It is this situation which leads me to propose that answer, which is worth no more than others.
 
-It would be purely ridiculous if the  human genome, agricultural seeds, medicines, ... were not also subject to the same treatment.
+It would be purely ridiculous if the  human genome, agricultural seeds, medicines... were not also subject to the same treatment.
 
 As the representations of hunting painted on the walls of caves, like the battle scenes, it is an image of power and strength, a totalitarian image, and overall violent and ultimately derisory, which, in my opinion, can lead to reflection and discussion. 
 
----french below---
+---french below, english above ---
 
-Il s’agit de produire méthodiquement toutes les images.
+Il sâ€™agit de produire mÃ©thodiquement toutes les images.
 
-le processus complet doit être la mise en licence libre, domaine public ou licence art libre, de l’ensemble de la production de ce programme.
-Ce qui acheverait le droit d’auteur des images de 16*16 pixels en noir et blanc dans l’avenir proche.
+le processus complet doit Ãªtre la mise en licence libre, domaine public ou licence art libre, de lâ€™ensemble de la production de ce programme.
+Ce qui acheverait le droit dâ€™auteur des images de 16*16 pixels en noir et blanc dans lâ€™avenir proche.
 
 
-Quand on se penche sur la matière qui constitue la base de notre univers sensible, on peut généraliser.
-Dans l’arrangement des molécules, des atomes il existe toujours deux possibilités, celle qui est chaotique, dont on ne peut saisir le sens et celle qui est un arrangement, une juxtaposition, voire une fusion,mais il y a un ensemble fini de molécules dans l’espace que l’on peut percevoir.
+Quand on se penche sur la matiÃ¨re qui constitue la base de notre univers sensible, on peut gÃ©nÃ©raliser.
+Dans lâ€™arrangement des molÃ©cules, des atomes il existe toujours deux possibilitÃ©s, celle qui est chaotique, dont on ne peut saisir le sens et celle qui est un arrangement, une juxtaposition, voire une fusion,mais il y a un ensemble fini de molÃ©cules dans lâ€™espace que lâ€™on peut percevoir.
 
-Ce qui semble infini, à cause de leur grand nombre : les possibilités de combinaisons de ces ensembles.
-Mais même les possibilités de connexions dans notre cerveau sont dénombrables.
+Ce qui semble infini, Ã  cause de leur grand nombre : les possibilitÃ©s de combinaisons de ces ensembles.
+Mais mÃªme les possibilitÃ©s de connexions dans notre cerveau sont dÃ©nombrables.
 
-Ceci n’aurait aucun sens sans l’existence de techniques et des systèmes de pensée auxquelles je me réfère en créant cet outil générateur d’images.
+Ceci nâ€™aurait aucun sens sans lâ€™existence de techniques et des systÃ¨mes de pensÃ©e auxquelles je me rÃ©fÃ¨re en crÃ©ant cet outil gÃ©nÃ©rateur dâ€™images.
 
-Actuellement, des humains s’approprient des images, en verrouillent la copie,
-font des procès à qui ose les copier et s’en inspirer.
+Actuellement, des humains sâ€™approprient des images, en verrouillent la copie,
+font des procÃ¨s Ã  qui ose les copier et sâ€™en inspirer.
 
-C’est cette situation qui m’amène à proposer cette réponse, qui en vaut d’autres.
+Câ€™est cette situation qui mâ€™amÃ¨ne Ã  proposer cette rÃ©ponse, qui en vaut dâ€™autres.
 
-Ce serait purement ridicule si le génome humain, les semences agricoles, les médicaments, ..., n’étaient pas eux aussi soumis au même régime.
+Ce serait purement ridicule si le gÃ©nome humain, les semences agricoles, les mÃ©dicaments, ..., nâ€™Ã©taient pas eux aussi soumis au mÃªme rÃ©gime.
 
-Comme les représentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, c’est une image de puissance et de force, une image totalitaire, violente et globale et finalement dérisoire, qui, à mon avis, prête à réflexion et a discussion.
+Comme les reprÃ©sentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, câ€™est une image de puissance et de force, une image totalitaire, violente et globale et finalement dÃ©risoire, qui, Ã  mon avis, prÃªte Ã  rÃ©flexion et a discussion.
