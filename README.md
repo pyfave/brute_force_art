@@ -23,7 +23,7 @@ It is this situation which leads me to propose that answer, which is worth no mo
 
 It would be purely ridiculous if the  human genome, agricultural seeds, medicines... were not also subject to the same treatment.
 
-As the representations of hunting painted on the walls of caves, like the battle scenes, it is an image of power and strength, a totalitarian image, and overall violent and ultimately derisory, which, in my opinion, can lead to reflection and discussion. 
+As the representations of hunting painted on the walls of caves, like the battle scenes, it is an image of power and strength, overall violent and ultimately derisory, which, in my opinion, can lead to reflection and discussion. 
 
 ---french below, english above ---
 
@@ -48,4 +48,4 @@ C’est cette situation qui m’amène à proposer cette réponse, qui en vaut d
 
 Ce serait purement ridicule si le génome humain, les semences agricoles, les médicaments, ..., n’étaient pas eux aussi soumis au même régime.
 
-Comme les représentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, c’est une image de puissance et de force, une image totalitaire, violente et globale et finalement dérisoire, qui, à mon avis, prête à réflexion et a discussion.
+Comme les représentations de chasses peintes sur les murs des grottes, comme les tableaux de bataille, c’est une image de puissance et de force, violente et globale et finalement dérisoire, qui, à mon avis, prête à réflexion et a discussion.
